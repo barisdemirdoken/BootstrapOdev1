@@ -1,0 +1,29 @@
+.navbar-brand{
+color: red;
+
+}
+body{
+    background-color: #E9ECEF;
+
+}
+.list-group{
+font-weight: bold;
+background-color: red;
+}
+.row{
+margin-left: 20px;
+margin-right: 20px;
+}
+img{
+
+    height: 100%;
+ 
+    width: 100%;
+ 
+ }
+
+ .card-body  .dikkat{
+background-color: #E9ECEF ;
+
+
+ }
